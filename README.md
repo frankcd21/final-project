@@ -5,6 +5,7 @@ The **Restaurant Reservation Management System** is a web-based platform develop
 
 ## Features
 - Add, modify, and cancel reservations.
+- Add, modify special request in reservations.
 - Maintain and manage detailed customer records.
 - Track and update customer dining preferences.
 - User-friendly interface for seamless navigation.
